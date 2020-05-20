@@ -1,0 +1,8 @@
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\bin\Debug\lab7_1.exe.config
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\bin\Debug\lab7_1.exe
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\bin\Debug\lab7_1.pdb
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\obj\Debug\lab7_1.Form1.resources
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\obj\Debug\lab7_1.Properties.Resources.resources
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\obj\Debug\lab7_1.csproj.GenerateResource.Cache
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\obj\Debug\lab7_1.exe
+E:\gonvlad\Документы\University\C#\lab7_1\lab7_1\obj\Debug\lab7_1.pdb
